@@ -23,6 +23,13 @@
     </dependency>
   </dependencies>
   
+  <profiles>
+    <profile>
+      <id>P1</id>
+      <activation>
+        <activeByDefault>false</activeByDefault>
+      </activation>
+      
   <build>
     <finalName>myApp_48992144M</finalName>
          <plugins>
@@ -40,5 +47,6 @@
           </plugin>
         </plugins>
       </build>
-
+    </profile>
+  </profiles>
 </project>
