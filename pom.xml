@@ -26,9 +26,7 @@
   <profiles>
     <profile>
       <id>P1</id>
-      <activation>
-        <name>P1</name>
-      </activation>
+      
       
   <build>
     <finalName>myApp_48992144M</finalName>
